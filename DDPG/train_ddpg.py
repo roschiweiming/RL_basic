@@ -3,7 +3,7 @@
 """
 import gym
 import matplotlib.pyplot as plt
-from RL_basic.DDPG.ddpg import *
+from DDPG.ddpg import *
 
 # -- hyper parameters -- #
 MAX_EPISODES = 10000
