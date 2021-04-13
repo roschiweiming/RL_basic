@@ -58,6 +58,13 @@ class DQN(object):
             action = np.random.randint(0, self.a_dim)
         return action
 
+    def action_best(self, state):
+        state = torch.unsqueeze(torch.FloatTensor(state), 0)  # 维度改变 pytorch通过batch计算的
+        action_value = self.eval_net.forward(state).detach()
+        action = torch.max(action_value, 1)[1].numpy()
+        action = action[0]
+        return action
+
     def learn(self):
         # update target network
         if self.learn_step_counter % self.target_replace_iter == 0:
@@ -67,10 +74,12 @@ class DQN(object):
         s_sample, a_sample, r_sample, new_s_sample, done_sample = self.memory_buffer.sample(self.batch_size)
 
         s_sample = torch.from_numpy(s_sample)
-        a_sample = torch.from_numpy(a_sample)
+        a_sample = torch.from_numpy(a_sample.astype(int))
         r_sample = torch.from_numpy(r_sample)
         new_s_sample = torch.from_numpy(new_s_sample)
         done_sample = torch.from_numpy(done_sample)
+
+        # print("a_sample", a_sample.shape)
 
         # 通过评估网络输出32行每个s_sample对应的一系列动作值，然后.gather(1, a_sample)代表对每行对应索引b_a的Q值提取进行聚合
         q_eval = self.eval_net(s_sample).gather(1, a_sample)
@@ -83,8 +92,16 @@ class DQN(object):
         loss.backward()
         self.optimizer.step()
 
-        if self.e_greedy >= 0.05:
+        if self.e_greedy >= 0.1:
             self.e_greedy *= 0.995
         else:
-            self.e_greedy = 0.05
+            self.e_greedy = 0.1
 
+    def save_models(self, episode_count):
+        torch.save(self.eval_net.state_dict(), './models/' + str(episode_count) + '_dqn.pt')
+        print('********** Models saved **********')
+
+    def load_models(self, episode_count):
+        self.eval_net.load_state_dict(torch.load('./models/' + str(episode_count) + '_dqn.pt'))
+        self.target_net.load_state_dict(self.eval_net.state_dict())
+        print('********** Models load **********')

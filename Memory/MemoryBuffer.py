@@ -26,7 +26,7 @@ class MemoryBuffer:
         return self.len
 
     def store_transition(self, s, a, r, new_s, done):
-        transition = (s, a, [r], new_s, [done])
+        transition = (s, [a], [r], new_s, [done])
         self.len += 1
         if self.len > self.maxsize:
             self.len = self.maxsize
