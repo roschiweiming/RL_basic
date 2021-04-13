@@ -1,221 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb3b968-d12b-46f5-a26c-287de952ac80" name="Default Changelist" comment="delete test.py">
-      <change beforePath="$PROJECT_DIR$/DDPG/models/0_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/0_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/1900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/2900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/3900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/4900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/5900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/6900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/7900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/8900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9000_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9000_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9100_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9100_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9200_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9200_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9300_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9300_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9400_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9400_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9500_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9500_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9600_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9600_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9700_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9700_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9800_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9800_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9900_actor.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/models/9900_critic.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/result/Test Reward_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/result/Total Reward_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/result/Total Reward_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/result/Total Reward_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDPG/result/Total Reward_4.png" beforeDir="false" />
+    <list default="true" id="cdb3b968-d12b-46f5-a26c-287de952ac80" name="Default Changelist" comment="delete .pt">
+      <change afterPath="$PROJECT_DIR$/DQN/run_DQN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memory/MemoryBuffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DQN/DQN.py" beforeDir="false" afterPath="$PROJECT_DIR$/DQN/DQN.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2.RL/DRLPytorch-master" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -267,17 +61,54 @@
       <option name="project" value="LOCAL" />
       <updated>1618147800417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete .pt">
+      <created>1618190944885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618190944885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -287,13 +118,14 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="delete test.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete test.py" />
+    <MESSAGE value="delete .pt" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete .pt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="696" y="280" key="FileChooserDialogImpl" timestamp="1618062326982">
-      <screen x="65" y="24" width="1855" height="1056" />
+    <state x="2354" y="84" key="FileChooserDialogImpl" timestamp="1618192821895">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="696" y="280" key="FileChooserDialogImpl/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1618062326982" />
+    <state x="2354" y="84" key="FileChooserDialogImpl/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1618192821895" />
     <state x="830" y="435" key="Github.ShareDialog" timestamp="1618062714497">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -306,10 +138,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="516" y="174" key="SettingsEditor/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1618062622094" />
-    <state x="592" y="274" key="Vcs.Push.Dialog.v2" timestamp="1618147962039">
+    <state x="592" y="274" key="Vcs.Push.Dialog.v2" timestamp="1618233939696">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="592" y="274" key="Vcs.Push.Dialog.v2/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1618147962039" />
+    <state x="592" y="274" key="Vcs.Push.Dialog.v2/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1618233939696" />
     <state x="731" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618062782062">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
